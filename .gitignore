@@ -1,0 +1,21 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Credentials / API keys
+*.env
+secrets.py
+
+# Large data files (WARC — decision deferred)
+# *.warc
+# *.warc.gz
+
+# Colab temp files
+.colab/
